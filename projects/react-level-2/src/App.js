@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import FetchGithubUsers from "./components/FetchData";
+import FetchGithubUsers from "./components/FetchGithubUsers";
 import UsersList from "./components/UsersList";
 import SearchBar from "./components/SearchBar";
 
