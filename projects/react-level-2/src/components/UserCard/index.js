@@ -28,7 +28,7 @@ export default function UserCard({ user }) {
   return (
     <li style={styles.container}>
       <a
-        href={user.url}
+        href={user.html_url}
         target="_blank"
         rel="noopener noreferrer"
         style={styles.innerWrapper}
